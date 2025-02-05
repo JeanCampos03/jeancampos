@@ -1,6 +1,6 @@
 # Olá, me chamou Jean Campos!
 
-## 💼 Atualmente estou trabalhando na empresa SYG.
+## 💼 Atualmente estou trabalhando na empresa SYG PDV.
 ## ✍🏻 Atualmente estou aprendendo linguagem Java e sistema linux.
 
 
