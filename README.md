@@ -1,4 +1,4 @@
-# Olá, me chamou Jean Campos!
+# Olá, me chamo Jean Campos!
 
 ## 💼 Atualmente estou trabalhando na empresa SYG PDV.
 ## ✍🏻 Atualmente estou aprendendo linguagem Java e sistema linux.
